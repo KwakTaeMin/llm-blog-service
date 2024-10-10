@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: llm-blog-service
+
+ollama:
+  api:
+    url: localhost
+    port: 11434
+
